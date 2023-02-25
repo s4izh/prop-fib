@@ -1,0 +1,14 @@
+1
+doc1
+dante
+la pera verde
+1
+doc2
+sergio
+la pera azul
+2
+doc2
+sergio
+5
+doc2
+sergio

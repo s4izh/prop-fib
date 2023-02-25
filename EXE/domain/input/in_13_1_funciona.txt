@@ -1,0 +1,24 @@
+1
+doc2
+pol
+La casa verde del Pol.
+1
+doc3
+youcef
+La broma del Youcef.
+1
+doc4
+sergio
+La silla del Sergio!
+1
+doc5
+autor5
+La cagada de Jose
+1
+doc1
+dante
+La casa verde del Dante.
+4
+13
+1
+0

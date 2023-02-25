@@ -1,0 +1,35 @@
+4
+1
+Apple
+Wikipedia
+Apple, es una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Tiene su sede principal en el Apple Park, en  Cupertino (California, Estados Unidos) y la sede europea en la ciudad de Cork (Irlanda). Sus productos de hardware incluyen el teléfono inteligente iPhone, la tableta iPad, la computadora personal Mac, el reproductor de medios portátil iPod, el reloj inteligente Apple Watch y el reproductor de medios digitales Apple TV. Entre el software de Apple se encuentran los sistemas operativos iOS, iPadOS, macOS, watchOS y tvOS, el explorador de contenido multimedia iTunes, la suite iWork (software de productividad), Final Cut Pro X (una suite de edición de vídeo profesional), Logic Pro (software para edición de audio en pistas de audio), Xsan (software para el intercambio de datos entre servidores) y el navegador web Safari.
+1
+Microsoft
+Wikipedia
+Microsoft Corporation es una empresa tecnológica multinacional estadounidense que produce software de computadora, productos electrónicos de consumo, computadoras personales y servicios relacionados con sede en el campus de Microsoft Redmond ubicado en Redmond, Washington, Estados Unidos. «Microsoft» es un acrónimo de microordenador y software.
+1
+Google rediseña Android Auto
+David Hernández
+Los primeros usuarios en empezar a disfrutar del nuevo rediseño de Android Auto son los probadores beta públicos, y así luce de espectacular. Cada actualización que llega a nuestro Android Auto puede acabar estropeando algo del sistema operativo de nuestro vehículo, pero la comunidad de usuarios sigue con la esperanza de que Google definitivamente lance la esperada nueva interfaz conocida como Coolwalk, y lo mejor de todo es que tenemos buenas noticias: ya se está implementando en versión beta pública.
+4
+1
+La NASA crea un grupo de investigación de los OVNIS
+David Hernández
+La agencia espacial ha seleccionado a 16 personas para investigar Fenómenos Aéreos No Identificados. Los resultados serán publicados a mediados de 2023 y pretenden aportar luz a ciertos avistamientos de fenómenos extraños para los que los científicos no han conseguido dar explicación.
+1
+Linux
+Wikipedia
+GNU/Linux es un sistema operativo (o una familia de sistemas operativos) tipo Unix compuesto por software libre y de código abierto. GNU/Linux surge de las contribuciones de varios proyectos de software, entre los cuales destacan GNU (iniciado por Richard Stallman en 1983) y el kernel «Linux» (iniciado por Linus Torvalds en 1991). A pesar de que en la jerga cotidiana la mayoría de las personas usan el vocablo «Linux» para referirse a este sistema operativo, en realidad ese es solo el nombre del kernel o núcleo, ya que el sistema completo está formado también por una gran cantidad de componentes del proyecto GNU junto a componentes de terceros, que van desde compiladores hasta entornos de escritorio. Cabe señalar que existen derivados que usan el núcleo Linux pero que no tienen componentes GNU, como por ejemplo el sistema operativo Android. También existen distribuciones de software GNU donde el núcleo Linux está ausente.
+1
+Microsoft Windows
+Wikipedia
+Windows es el nombre de una familia de distribuciones de software para PC, servidores, sistemas empotrados y antiguamente teléfonos inteligentes desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 (x64) y ARM. Desde un punto de vista técnico, no son sistemas operativos, sino que contienen uno (tradicionalmente MS-DOS o el más actual cuyo núcleo es Windows NT) junto con una amplia variedad de software; no obstante, es usual (aunque no necesariamente correcto) denominar al conjunto como sistema operativo en lugar de distribución. Microsoft introdujo un entorno operativo denominado Windows el 20 de noviembre de 1985 como un complemento para MS-DOS en respuesta al creciente interés en las interfaces gráficas de usuario (GUI). Microsoft Windows llegó a dominar el mercado mundial de computadoras personales, con más del 70 % de la cuota de mercado, superando a Mac OS, que había sido introducido en 1984.
+1
+Microsoft Windows 2
+Wikipedia
+Desde un punto de vista técnico, no son sistemas operativos, sino que contienen uno (tradicionalmente MS-DOS o el más actual cuyo núcleo es Windows NT) junto con una amplia variedad de software; no obstante, es usual (aunque no necesariamente correcto) denominar al conjunto como sistema operativo en lugar de distribución. Microsoft introdujo un entorno operativo denominado Windows el 20 de noviembre de 1985 como un complemento para MS-DOS en respuesta al creciente interés en las interfaces gráficas de usuario (GUI). Microsoft Windows llegó a dominar el mercado mundial de computadoras personales, con más del 70 % de la cuota de mercado, superando a Mac OS, que había sido introducido en 1984.
+4
+1
+Apple
+Wikipedia
+Apple, es una empresa puntera en el mundo de la tecnología.

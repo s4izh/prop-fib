@@ -1,0 +1,23 @@
+# PROP Grup 13.4
+Projecte de Programacio, Grup 13, subgrup 13.4. Professor: Salvador Medina Herrera.
+
+## DOCS
+
+## Elements del directori
+
+### Descripció del directori
+Aquest directori conté tot el codi del projecte organitzat per packages
+
+### Elements del directori
+
+- Directori src
+
+Hi ha tots els fitxers codi del sistema organitzat a partir de packages i els fitxers per compilar-lo i executar-lo. Inclou dos scripts per compilar i executar el driver de domain.
+Hi ha també un directori input amb els txt utilizats per probar el programa.
+
+- Directori test
+
+Hi ha tots els fitxers dedicats a fer tests amb junit.
+
+- Script compileDriverDomini.sh per compilar el driver del domain
+- Script compileDriverAuthor.sh per compilar el driver del autor

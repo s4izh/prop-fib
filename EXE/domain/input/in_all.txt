@@ -1,0 +1,442 @@
+4
+1
+Apple
+Wikipedia
+Apple, es una empresa estadounidense que diseña y produce equipos electrónicos, software y servicios en línea. Tiene su sede principal en el Apple Park, en  Cupertino (California, Estados Unidos) y la sede europea en la ciudad de Cork (Irlanda). Sus productos de hardware incluyen el teléfono inteligente iPhone, la tableta iPad, la computadora personal Mac, el reproductor de medios portátil iPod, el reloj inteligente Apple Watch y el reproductor de medios digitales Apple TV. Entre el software de Apple se encuentran los sistemas operativos iOS, iPadOS, macOS, watchOS y tvOS, el explorador de contenido multimedia iTunes, la suite iWork (software de productividad), Final Cut Pro X (una suite de edición de vídeo profesional), Logic Pro (software para edición de audio en pistas de audio), Xsan (software para el intercambio de datos entre servidores) y el navegador web Safari.
+1
+Microsoft
+Wikipedia
+Microsoft Corporation es una empresa tecnológica multinacional estadounidense que produce software de computadora, productos electrónicos de consumo, computadoras personales y servicios relacionados con sede en el campus de Microsoft Redmond ubicado en Redmond, Washington, Estados Unidos. «Microsoft» es un acrónimo de microordenador y software.
+1
+Google rediseña Android Auto
+David Hernández
+Los primeros usuarios en empezar a disfrutar del nuevo rediseño de Android Auto son los probadores beta públicos, y así luce de espectacular. Cada actualización que llega a nuestro Android Auto puede acabar estropeando algo del sistema operativo de nuestro vehículo, pero la comunidad de usuarios sigue con la esperanza de que Google definitivamente lance la esperada nueva interfaz conocida como Coolwalk, y lo mejor de todo es que tenemos buenas noticias: ya se está implementando en versión beta pública.
+4
+1
+La NASA crea un grupo de investigación de los OVNIS
+David Hernández
+La agencia espacial ha seleccionado a 16 personas para investigar Fenómenos Aéreos No Identificados. Los resultados serán publicados a mediados de 2023 y pretenden aportar luz a ciertos avistamientos de fenómenos extraños para los que los científicos no han conseguido dar explicación.
+1
+Linux
+Wikipedia
+GNU/Linux es un sistema operativo (o una familia de sistemas operativos) tipo Unix compuesto por software libre y de código abierto. GNU/Linux surge de las contribuciones de varios proyectos de software, entre los cuales destacan GNU (iniciado por Richard Stallman en 1983) y el kernel «Linux» (iniciado por Linus Torvalds en 1991). A pesar de que en la jerga cotidiana la mayoría de las personas usan el vocablo «Linux» para referirse a este sistema operativo, en realidad ese es solo el nombre del kernel o núcleo, ya que el sistema completo está formado también por una gran cantidad de componentes del proyecto GNU junto a componentes de terceros, que van desde compiladores hasta entornos de escritorio. Cabe señalar que existen derivados que usan el núcleo Linux pero que no tienen componentes GNU, como por ejemplo el sistema operativo Android. También existen distribuciones de software GNU donde el núcleo Linux está ausente.
+1
+Microsoft Windows
+Wikipedia
+Windows es el nombre de una familia de distribuciones de software para PC, servidores, sistemas empotrados y antiguamente teléfonos inteligentes desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 (x64) y ARM. Desde un punto de vista técnico, no son sistemas operativos, sino que contienen uno (tradicionalmente MS-DOS o el más actual cuyo núcleo es Windows NT) junto con una amplia variedad de software; no obstante, es usual (aunque no necesariamente correcto) denominar al conjunto como sistema operativo en lugar de distribución. Microsoft introdujo un entorno operativo denominado Windows el 20 de noviembre de 1985 como un complemento para MS-DOS en respuesta al creciente interés en las interfaces gráficas de usuario (GUI). Microsoft Windows llegó a dominar el mercado mundial de computadoras personales, con más del 70 % de la cuota de mercado, superando a Mac OS, que había sido introducido en 1984.
+1
+Microsoft Windows 2
+Wikipedia
+Desde un punto de vista técnico, no son sistemas operativos, sino que contienen uno (tradicionalmente MS-DOS o el más actual cuyo núcleo es Windows NT) junto con una amplia variedad de software; no obstante, es usual (aunque no necesariamente correcto) denominar al conjunto como sistema operativo en lugar de distribución. Microsoft introdujo un entorno operativo denominado Windows el 20 de noviembre de 1985 como un complemento para MS-DOS en respuesta al creciente interés en las interfaces gráficas de usuario (GUI). Microsoft Windows llegó a dominar el mercado mundial de computadoras personales, con más del 70 % de la cuota de mercado, superando a Mac OS, que había sido introducido en 1984.
+1
+Tesla, INC.
+Elon Musk
+Tesla (anteriormente, Tesla Motors, Inc) es una empresa estadounidense con sede en Austin, Texas, y liderada por Elon Musk, que diseña, fabrica y vende automóviles eléctricos, componentes para la propulsión de vehículos eléctricos, techos solares, instalaciones solares fotovoltaicas y baterías domésticas. Fue fundada en julio de 2003 por los ingenieros Martin Eberhard y Marc Tarpenning como Tesla Motors. El nombre de la empresa es un tributo al inventor e ingeniero eléctrico Nikola Tesla. Los siguientes tres empleados fueron Ian Wright, Elon Musk y JB Straubel, quienes fueron nombrados co-fundadores de la compañía. Elon Musk ya había fundado varias empresas, era millonario y había tenido la idea de desarrollar baterías para el almacenamiento de energía renovable. Después de reunirse con Eberhard y Wright, Musk invirtió 6.5 millones de dólares en la compañía. Por lo que quedó como presidente de la empresa, Martin Eberhard como CEO y JB Straubel como CTO.
+1
+Twitter o Tesla
+Elon Musk
+Elon Reeve Musk (Pretoria, Sudáfrica, 28 de junio de 1971), conocido como Elon Musk, es un empresario, inversionista y magnate sudafricano, canadiense y estadounidense. Es el fundador, consejero delegado e ingeniero jefe de SpaceX; inversor ángel, CEO y arquitecto de productos de Tesla, Inc; fundador de The Boring Company; cofundador de Neuralink y OpenAI, además de ser el actual dueño de Twitter. Con un patrimonio neto estimado en unos 252 mil millones de dólares en abril de 2022, Musk es la persona más rica del mundo según el índice de multimillonarios de Bloomberg y la lista de multimillonarios en tiempo real de Forbes.
+1
+¿Quién es Eloy Moreno?
+Eloy Moreno
+Eloy Moreno (Castellón de la Plana) es un escritor español conocido por la Autoedición y distribución propia de su primera novela "El bolígrafo de gel verde". Estudió Educación General Básica en el Colegio Público Virgen del Lidón y BUP y COU en el Instituto Francisco Ribalta de Castellón de la Plana, donde se tituló en Ingeniería Técnica en Informática de Gestión por la Universidad Jaume I. Y tras finalizar sus estudios universitarios estuvo trabajando en una empresa de informática hasta que aprobó las oposiciones a informático en el Ayuntamiento de Castellón de la Plana.
+1
+Will Smith, la leyenda
+Will Smith
+Willard Carroll Smith II1 (Filadelfia, Pensilvania; 25 de septiembre de 1968), más conocido como Will Smith, es un actor, cómico, rapero, productor cinematográfico y productor discográfico estadounidense. Ha tenido éxito en sus dos facetas artísticas: siendo ganador de un Premio Óscar con dos nominaciones previas, nominado a cuatro Premios Globo de Oro y ha ganado cuatro Premios Grammy. A finales de los años 1980, alcanzó una modesta fama como rapero, con el nombre de The Fresh Prince. En 1990, su fama aumentó drásticamente, cuando protagonizó la serie de televisión El principe del rap, donde interpretaba a una versión ficticia de sí mismo, y que se transmitió durante más de media década (1990-1996) en la NBC y se ha retransmitido de forma permanente en diversas cadenas. A mediados de los años 1990, pasó de la televisión al cine, y actuó en numerosas películas que lograron un gran éxito de taquilla. También recibió un premio especial por su aportación a la música dentro del cine en la Gala de los Premios Principales de 2007.
+1
+Soy Leyenda
+Will Smith
+Soy leyenda (en inglés: I Am Legend) es una película de terror y ciencia ficción postapocalíptica estadounidense de 2007, dirigida por Francis Lawrence y protagonizada por Will Smith. Es la tercera adaptación cinematográfica de la novela homónima de 1954 de Richard Matheson, siguiendo a The Last Man on Earth, de 1964, y The Omega Man, de 1971. Smith interpreta al virólogo Robert Neville, quien es inmune a un virus hecho por el ser humano, creado originalmente para curar el cáncer. Él trabaja para crear un antídoto mientras se defiende de los mutantes originados por el virus. Warner Bros. comenzó a desarrollar Soy leyenda en 1994 y varios actores y directores se unieron al proyecto, aunque la producción se retrasó debido a problemas presupuestarios relacionados con el guion.
+1
+Ibai Llanos - Biografia
+Wikipedia
+Ibai Llanos Garatea (Bilbao, España; 26 de marzo de 1995) es un streamer, youtuber y presentador de deportes electrónicos español. En Twitch, cuenta con más de 11 millones de seguidores, lo que le coloca en el cuarto puesto global de los canales con más seguidores de la plataforma. En YouTube, cuenta con más de 9 millones de suscriptores y un total de 2 mil millones de visitas en su canal principal. Es cofundador, junto a Gerard Piqué, del equipo de deportes electrónicos KOI. También fue creador de contenido para G2 Esports en 2020. Ganó 4 Trasgos de Oro por «mejor caster» entre 2015 y 2018; dos Esports Awards por «streamer del año» en 2020 y 2021; y 4 premios Esland en 2022 por «mejor streamer», «mejor evento», «fail del año» y «canción del año», colocándose como el más galardonado de este último grupo de premios.
+1
+La UPC
+Daniel Crespo Artiaga
+La Universidad Politécnica de Cataluña (Universitat Politècnica de Catalunya en catalán), también conocida como BarcelonaTech y por su acrónimo UPC, es una universidad pública española de la Generalidad de Cataluña, especializada en los ámbitos de ingeniería, arquitectura y ciencias. Fundada en 1971 como Universidad Politécnica de Barcelona, cambió su nombre al actual en 1984. Dispone de centros e instalaciones en Barcelona, Castelldefels, Manresa, San Cugat del Vallés, Tarrasa, Villanueva y Geltrú e Igualada. A nivel nacional, la UPC lidera la mayoría de rankings internacionales en las áreas de ingeniería, ciencias de la computación, arquitectura y matemáticas. A nivel general, figura en la séptima posición dentro de las universidades españolas según la clasificación webométrica del CSIC (enero de 2020), en la décima posición de la lista de Times Higher Education, y en la octava posición de la Clasificación mundial de universidades QS 2020.
+1
+La FIB
+Daniel Crespo Artiaga
+La Facultad de Informática de Barcelona (FIB) es una facultad de la Universidad Politécnica de Cataluña, situada en Barcelona, España. Se creó en 1976, cuatro años más tarde de la formación de la Universidad Politécnica de Cataluña, con el objetivo de impartir la licenciatura de informática. Empezó en 1977-1978 realizando asignaturas de segundo y tercer ciclo. En el curso 1979-1980 empezó a admitir estudiantes de primer ciclo. En 1988-1989 se creó la diplomatura. Actualmente la FIB está situada en el Campus Nord que comparte con la ETSETB (E.T.S. de Ingeniería de Telecomunicaciones de Barcelona) y la ETSECCPB (E.T.S. de Ingeniería de Caminos, Canales y Puertos de Barcelona).
+1
+Fútbol Club Barcelona
+La Liga
+El Fútbol Club Barcelona (en catalán, Futbol Club Barcelona), conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona, España. Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903. Tanto el club como sus hinchas reciben el apelativo de «culers» (pronunciado culés), y también, en referencia a sus colores, «azulgranas» o «blaugranas», tal como aparece en su himno, el «cant del Barça», el cual en su segunda línea menciona «som la gent blaugrana» (en castellano, «somos la gente azulgrana»). En su oficina de atención al barcelonista se atiende en los tres idiomas oficiales del club, que son el catalán, el castellano y el inglés. A nivel institucional es uno de los cuatro clubes profesionales de fútbol del país cuya entidad jurídica no es la de sociedad anónima deportiva ya que su propiedad recae en sus más de 137 000 socios. Otra salvedad comparte con el Athletic Club y el Real Madrid Club de Fútbol al participar sin interrupción en la máxima categoría de la Liga Nacional de Fútbol Profesional, la Primera División de España, desde su establecimiento en 1929. En ella posee los honores de haber sido el primer campeón histórico de la competición, su segundo club con más títulos, y el de la máxima puntuación en una sola edición.
+1
+Real Madrid Club de Fútbol
+La Liga
+El Real Madrid Club de Fútbol, más conocido simplemente como Real Madrid, es una entidad polideportiva con sede en Madrid, España. Fue declarada oficialmente registrada como club de fútbol por sus socios el 6 de marzo de 1902 con el objeto de la práctica y desarrollo de este deporte —si bien sus orígenes datan del año 1900, y su denominación de (Sociedad) Madrid Foot-ball Club de octubre de 1901—, siendo el quinto club fundado en la capital. Tuvo a Julián Palacios y los hermanos Juan Padrós y Carlos Padrós como principales valedores de su creación. Identificado por su color blanco —del que recibe el apelativo de «blancos» o «merengues»—, es uno de los cuatro clubes profesionales de fútbol del país cuya entidad jurídica no es la de sociedad anónima deportiva, ya que su propiedad recae en sus más de 90 000 socios. Otra salvedad comparte con el Athletic Club y el Fútbol Club Barcelona al participar sin interrupción en la máxima categoría de la Liga Nacional de Fútbol Profesional, la Primera División de España, desde su establecimiento en 1929. En ella posee los honores de haber sido el primer líder histórico de la competición, el de club con más títulos, y el de la máxima puntuación en una sola edición.
+1
+Sorteo de la Copa del Rey
+La Liga
+Ya hay 56 equipos clasificados para el sorteo del próximo miércoles. 14 de Primera (Athletic, Atlético, Celta, Elche, Espanyol, Getafe, Girona, Mallorca, Osasuna, Rayo Vallecano, Real Sociedad, Sevilla, Valladolid y Villarreal), 16 de Segunda (Alavés, Albacete, Andorra, Burgos, Cartagena, Eibar, Granada, Ibiza, Las Palmas, Levante, Málaga, Mirandés, Oviedo, Racing, Sporting y Tenerife), 12 de Primera RFEF (Alcorcón, Ceuta, Eldense, Intercity, La Nucía, Linares, Mérida, Nàstic, Numancia, Pontevedra, Real Unión y UD Logroñés) y 14 de Segunda RFEF (Arenas, Arenteiro, Arnedo, Atlético Paso, Cacereño, Coria, Diocesano, Gernika, Guadalajara, Guijuelo, Ibiza Islas Pitiusas, Saguntino, Sestao River y Torremolinos). El sorteo tendrá lugar el miércoles 16 de noviembre en Las Rozas (17.00 horas). Habrá cuatro bombos. Se emparejarán los 14 equipos de la Segunda RFEF con los 14 equipos de LaLiga Santander. Todavía no entran los equipos de la Supercopa de España. 12 equipos de la Primera RFEF se emparejarán con 12 equipos de LaLiga SmartBank y habrá dos eliminatorias entre equipos de Segunda.
+1
+NBA - 14 de Noviembre
+Mark Cuban
+Nueva jornada NBA con hasta 7 partidos disputados. Y resultados dispares y sorprendentes: los Thunder conquistan el Madison, los Wolves se imponen en Ohio y los Nuggets juegan de maravilla en Chicago. Además, ganan los Lakers, algo que solo ocurre por tercera vez esta temporada y que no deja de ser una anomalía en estis tiempos oscuros de la franquicia. Los Grizzlies, sorprendentemente, caen ante los Wizards. Embiid hace una de las actuaciones más memorables de la historia con los Sixers. Y los Warriors, ya en crisis oficial, vuelven a caer, esta vez ante los Kings.
+1
+Anthony Davis tumba a los Nets
+Mark Cuban
+Este es el Anthony Davis que necesitan los Lakers. La estrella de los angelinos se destapó anoche con un enorme doble-doble de 37 puntos y 18 rebotes que sirvió para acabar con Brooklyn y romper una dolorosa racha de cinco derrotas consecutivas. La gran actuación del interior fue determinante para que los de Los Ángeles viviesen una noche placentera. Por primera vez en mucho tiempo dominaron el choque de principio de fin. Cierto es que hubo momentos en los que los neoyrquinos apretaron algo el marcador, pero se quedaron en nada frente aun rival que simplemente fue mejor; tanto es así que a falta de algo más de cuatro minutos tenía el partido cerrado con 18 puntos de ventaja. Al final, 116-103 a favor de los Lakers. Volviendo a Davis –porque se lo merece–, estuvo 34 minutos en cancha para para alcanzar los 37 puntos con un 15 de 25 en tiros de campo. No lanzó triples y estuvo perfecto desde la línea de tiros libres con 7 de 7. A tal despliegue en el lanzamiento sumó 18 rebotes (10 en ataque) y un par de asistencias. Dio su mejor versión sin LeBron James (baja por lesión). Aquí lo tenéis.
+1
+Andrés Iniesta
+Wikipedia
+Andrés Iniesta Luján (Fuentealbilla, Albacete, 11 de mayo de 1984), más conocido simplemente como Iniesta, es un futbolista español que juega como centrocampista en el Vissel Kobe de la J1 League de Japón. Ha desarrollado la mayor parte de su carrera en el FC Barcelona y en la selección española, equipos de los que fue capitán. Es el futbolista español más laureado de la historia con un total de 39 títulos oficiales y ampliamente considerado como uno de los mejores futbolistas del mundo de su generación y uno de los mejores centrocampistas de la historia del fútbol. Su formación como futbolista comenzó con ocho años en las categorías inferiores del Albacete Balompié. Tras una destacada actuación en el torneo nacional alevín fichó a los doce años por el FC Barcelona, trasladando su residencia a «La Masía». En 2002 debutó en Primera División con el primer equipo azulgrana, jugando 16 temporadas (2002–2018) y conquistando 32 títulos como barcelonista: nueve de La Liga, seis de la Copa del Rey, siete de la Supercopa de España, cuatro de Liga de Campeones de la UEFA, tres de la Supercopa de Europa y tres de la Copa Mundial de Clubes de la FIFA. Centrocampista con una técnica extraordinaria, olfato de gol y gran asistente, jugó 674 partidos oficiales con el FC Barcelona, anotando 57 goles y enlazando 139 asistencias de gol, convirtiéndose en uno de los jugadores más importantes de la historia del club. Es además el cuarto jugador con más con más partidos en la historia del Barcelona, solo por detrás de Sergio Busquets, Xavi Hernández y Lionel Messi.
+4
+1
+doc1
+pol
+¡Como me gusta PROP!
+1
+doc2
+sergio
+Azorín y Baroja son los escritores españoles que imponen en nuestras letras -a principio de siglo- el período corto, rompiendo con la ampulosidad retórica decimonónica. Pero todo modo de hacer literario engendra pronto el abuso. Desgraciados de nuestros imitadores porque de ellos serán nuestros defectos», dijo Benavente).
+1
+doc3
+youcef
+“Una butaca. Sobre la butaca, un labriego. ¿En qué piensa el labriego? Piensa en las remolachas. Este fruto es agreste y montaraz. Rezuma golosinas por su corola, y crece en el secano junto al berro. ¿Berro o puerro? El «lapsus» gramatical es agudo: el puerro es menos agridulce en la cochura, pero más amable … “
+1
+doc4
+dante
+¡Buenos días! Me encanta la asignatura de PROP.
+1
+doc5
+pol
+Lionel Andrés Messi Cuccittini (Rosario, 24 de junio de 1987), conocido como Leo Messi, es un futbolista argentino que juega como delantero o centrocampista. Jugador histórico del Fútbol Club Barcelona, al que estuvo ligado veinte años, desde 2021 integra el plantel del Paris Saint-Germain de la Ligue 1 de Francia. Es también internacional con la selección de Argentina, equipo del que es capitán.
+4
+1
+doc6
+pepe
+Aunque no es tan nuevo y emocionante como otros lenguajes como Python, Java es utilizado por más de 9,6 millones de desarrolladores, y por una buena razón. Java es bastante fácil de aprender y se utiliza en muchas aplicaciones móviles y de escritorio. Además, hay un montón de herramientas de Java que facilitan su uso a los desarrolladores y a los principiantes.
+1
+doc7
+arnau
+"En mi opinión, no hay comparación en cuanto a la documentación en línea, la comunidad de usuarios, la facilidad de aprendizaje y las capacidades generales de Python", dijo el Dr. Clayton Miller, profesor adjunto del Departamento de Construcción de la Escuela de Diseño y Medio Ambiente de la Universidad Nacional de Singapur (NUS).
+1
+doc8
+joan
+Los populares saben que queda mucho tiempo para las elecciones generales y, aunque las municipales y autonómicas ya están cerca y serán importantes para el resultado final, también consideran que “no se ganan las elecciones en los últimos quince días”. Al final, el voto responde a un análisis sobre lo que se ha hecho a lo largo del tiempo, y por eso defienden que el llamado efecto Feijóo está vivo y ahora, con la polémica por la sedición, se entenderá mucho mejor lo que el PP plantea.
+1
+doc9
+lavanguardia
+Aún admitiendo que la medida puede agradar a una parte de la población catalana, el PP ve en la situación creada con el cambio legislativo una oportunidad en Catalunya. El PSC, que ha sido una referencia política en el choque frontal con las aspiraciones independentistas, fue impulsor ideológico de los indultos y ahora lo es de la reforma de la sedición. Esto lleva a pensar a los dirigentes del PP que su formación puede ocupar el espacio del constitucionalismo que, estiman, ha dejado huérfano el PSC y no ha sabido rentabilizar el decadente proyecto político de Ciudadanos. Arrimadas no representa ahora una alternativa, tampoco en Catalunya, donde nació el partido. El proceso ya se había iniciado antes de la decisión del PSOE en torno a la reforma del Código Penal, subrayan los populares, que esgrimen encuestas en las que ya ha adelantado a Vox (que obtuvo 11 diputados en el 2021), a Ciudadanos y a la CUP, que quedaron por encima en el 2021. Según esos datos, de los tres escaños que obtuvo el PP, ahora obtendría entre 14 y 16.
+1
+doc10
+fib
+La mujer que presuntamente colocó una bomba ayer domingo en la calle peatonal más transitada de Estambul ha sido capturada esta madrugada. Así lo ha comunicado el ministro del Interior de Turquía, Suleyman Soylu, que también ha informado de la detención de otros veintiún sospechosos, ha acusado a las Unidades de Protección Popular (YPD), la filial siria del Partido de los Trabajadores del Kurdistán (PKK) del atentado. Este dejó ayer seis muertos y ochenta y un heridos, treinta de los cuales siguen hospitalizados, con un debatiéndose entre la vida y la muerte.
+1
+doc11
+youcef
+Tras un corto vuelo desde Europa, hay un país que lo ofrece casi todo pero donde hay dificultades para encontrar un turista extranjero. Aunque quizás no por mucho más tiempo. Con un cálido mar Mediterráneo en verano, excelente esquí en invierno, vastos desiertos saharianos, imponentes ruinas romanas y arte prehistórico de renombre mundial, junto con una fascinante cultura árabe moderna, Argelia debería ser un destino turístico de primer orden.
+1
+doc12
+youcef
+Argelia está lista para convertirse en “el destino alternativo para el Mediterráneo”, dijo Abdelkader Gouti, asesor del Ministerio de Turismo. Al perseguir a los turistas, el gobierno está siguiendo la iniciativa tomada el año pasado por Arabia Saudí, que emitió sus primeros visados de turismo como parte de una reforma económica para ayudar a eliminar su dependencia de los hidrocarburos.
+1
+doc13
+barça
+Hola que tal.
+1
+doc14
+Pepe
+Fuera con dos ruedas o con cuatro, los vehículos bávaros demostraron pronto tener algo en común además de su logotipo: su carácter deportivo y su competitividad. Sus entusiastas propietarios los usaban no solamente para desplazarse a sus quehaceres cotidianos o en sus viajes familiares sino que muchos de ellos también los empleaban después para competir en carreras amateur y requerían de sus automóviles unas prestaciones extra que iban mucho más allá de las de serie.
+1
+doc15
+juanpablo
+Fuera con dos ruedas o con cuatro, los vehículos bávaros demostraron pronto tener algo en común además de su logotipo: su carácter deportivo y su competitividad. Sus entusiastas propietarios los usaban no solamente para desplazarse a sus quehaceres cotidianos o en sus viajes familiares sino que muchos de ellos también los empleaban después para competir en carreras amateur y requerían de sus automóviles unas prestaciones extra que iban mucho más allá de las de serie.
+1
+doc16
+pol
+Hola
+1
+doc17
+pol
+Hola que pasa loquete.
+1
+doc18
+DepartamentDeProp
+Este año hemos vuelto a retrasar la entrega. ¡Menos mal!
+1
+doc19
+Oscar
+La Policía de la Generalidad-Mozos de Escuadra (PG-ME; oficialmente y en catalán, Policia de la Generalitat-Mossos d'Esquadra), es la policía autonómica de Cataluña, siendo parte de las fuerzas y cuerpos de seguridad, refundada, como cuerpo policial con competencias de policía integral, en 1983 por el Parlamento de Cataluña mediante la Ley 19/1983, de 14 de julio, por la que se crea la Policía Autonómica de la Generalidad de Cataluña.
+1
+doc20
+AeropuertoDelPrat
+La incipiente apertura de los países asiáticos a los viajes internacionales tras la pandemia ha recrudecido la pugna por recuperar este codiciado mercado. Una competición que en España libran los aeropuertos de El Prat y Barajas, y con ellos, empresas e instituciones que orbitan a su alrededor. No en vano, las conexiones aéreas con Asia tienen un valor económico estratégico y quien mejor se sitúe en la parrilla de salida jugará con ventaja a la hora de consolidar vuelos y relaciones con Extremo Oriente.
+4
+6
+pepe
+6
+Pepe
+5
+doc9
+lavanguardia
+8
+doc1
+pol
+2
+1
+Desayunar fuerte es imp ortante.
+salvador
+ He desayunado unos churros con chocolate tremendos.
+8
+doc17
+pol
+1
+12
+salv
+0
+12
+
+0
+1
+AR
+FIB
+Assignatura AR.
+1
+ER
+FIB
+Assignatura ER.
+1
+IES
+FIB
+Assignatura IES.
+1
+PAR
+FIB
+Assignatura PAR.
+1
+BD
+FIB
+Assignatura BD.
+1
+XC
+FIB
+Assignatura XC.
+1
+M1
+FIB
+Assignatura M1.
+1
+FM
+FIB
+Assignatura FM.
+1
+M2
+FIB
+Assignatura M2.
+1
+IC
+FIB
+Assignatura IC.
+1
+AC
+FIB
+Assignatura AC.
+1
+Economia
+UB
+Assignatura Economia.
+1
+ADE
+UB
+Assignatura Economia - ADE.
+1
+Català
+UB
+Assignatura català.
+1
+Castellano
+UB
+Assignatura castellano.
+1
+Matemàtiques
+UB
+Assignatura matemàtiques
+1
+Tecnologia
+UB
+Assignatura tecnologia.
+1
+ED
+UPF
+Assignatura ED.
+1
+Fiesta
+Pol
+Fiesta en mi casa!
+1
+Martes dentista
+David Muñoz.
+Buenas, tienes cita el martes!
+1
+Lunes futbol
+Pedro
+El lunes tengo futbol.
+1
+Chef profesional
+Chicote
+Soy una bestia? Pues si.
+1
+Vermut en mi casa
+Pedro
+Hoy toca vermut!
+1
+Invitación
+Maria del Carmen
+Estás invitado a mi fiesta!
+1
+Cumple
+Pedro
+Mañana es mi día! Felicitarme.
+1
+Macarrones
+Chicote
+Mañana tengo que cocinar macarrones.
+1
+Espaguetti
+Chicote
+Mañana me comeré unos espaguetti.
+1
+Tortilla
+Chicote
+El miércoles tengo tortilla.
+1
+Adiós! No vuelvas!
+Piqué
+Piqué se va del barcelona!
+1
+Globo
+Ibai Llanos
+Me gustan los globos.
+1
+Dorada
+Chicote
+¿Te gusta la dorada? A mí no.
+1
+Pez globo
+Chicote
+Mañana compraré un buen pez globo.
+1
+Danonino
+Chicote
+De pequeño me gustaban los danoninos.
+1
+Mussol
+David Perez
+Sóc un mussol.
+1
+Museo el martes!
+David Perez
+El martes toca excursión al museo.
+1
+Mariscada
+Chicote
+El martes me toca mariscada por Pedro. ¡Qué ganas!
+1
+Mariscada 2
+Chicote
+La mariscada fue un fracaso.
+4
+12
+Chi
+1
+12
+F
+0
+2
+Mariscada
+Chicote
+2
+Mussol
+David Perez
+3
+Danonino
+Chicote
+Ahora ya no me gusta.
+3
+ER
+FIB
+Han suspendido todos!
+4
+5
+Apple
+Wikipedia
+5
+Andrés Iniesta
+Wikipedia
+5
+Linux
+Wikipedia
+5
+La UPC
+Daniel Crespo Artiaga
+6
+Daniel Crespo Artiaga
+4
+
+7
+n
+La
+7
+n
+E
+8
+ER
+FIB
+4
+1
+Mariscada Final
+Chicote
+Me encanto sinceramente! Pero podría haber estado mejor.
+9
+n
+software | investigar
+9
+n
+("Fútbol Club Barcelona") & !Iniesta
+9
+n
+("queda mucho tiempo") & generales
+9
+n
+{Universidad Cataluña} & !Fútbol
+10
+("Fútbol Club Barcelona") & !Iniesta
+6
+Chicote
+7
+s
+M
+7
+s
+Mar
+9
+n
+("población catalana") & !software
+6
+Chicote
+9
+s
+{gusta}
+11
+{gusta}
+("me gusta") & !pez
+11
+software | investigar
+{software} | Iniesta
+12
+Da
+0
+12
+F
+1
+13
+1
+6
+David Hernández
+
+0

@@ -1,0 +1,39 @@
+1
+pol
+pol
+la vida es dura
+1
+dante
+dante
+la vida es dura
+1
+sergio
+sergio
+la vida es blanda
+1
+youcef
+youcef
+la vida es roja
+1
+herrera
+herrera
+me gusta prop
+1
+diprada
+dante
+odio prop
+8
+dante
+dante
+8
+5
+diprada
+dante
+1
+pene
+dante
+la vida es dura
+9
+n
+{prop}
+0

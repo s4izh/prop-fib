@@ -1,0 +1,12 @@
+# PROP Grup 13.4
+Projecte de Programacio, Grup 13, subgrup 13.4. Professor: Salvador Medina Herrera.
+
+## GESTOR DE DOCUMENTS
+
+## Elements del directori
+
+- directori out: amb els .class
+- directori domain: amb el driver del domain i una script per executar-lo
+- directori author: amb el driver de authors i una script per executar-lo
+
+Input més gran: domain/input/in_all.txt

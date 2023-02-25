@@ -1,0 +1,22 @@
+# PROP Grup 13.4
+Projecte de Programacio, Grup 13, subgrup 13.4. Professor: Salvador Medina Herrera.
+
+## GESTOR DE DOCUMENTS
+
+## Membres del grup
+
+- Dante de Prado Rojo ([dante.de.prado@estudiantat.upc.edu]())
+- Pol Salvador Nogues ([pol.salvador@estudiantat.upc.edu]())
+- Sergio Sanz Martinez ([sergio.sanz.martinez@estudiantat.upc.edu]())
+- Youcef Trabsa Biskri ([youcef.trabsa@estudiantat.upc.edu]()).
+
+## Elements del directori
+
+Directori amb els documents de cada entrega:
+
+- entrega1
+- entrega2
+- entrega3
+
+Directori amb els javadocs.
+
